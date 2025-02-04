@@ -14,16 +14,26 @@
 
 **DESCRIPTION OF TASK**:
 import nltk
+
 import random
+
 import re
 
 Download required NLTK resources
+
 Define patterns and responses
+
 Lowercase and tokenize input text
+
 Join tokens back into a sentence
+
 Rule-based pattern matching
+
 Main chatbot loop
+
 Run the chatbot
+**output**:
+a chatbot will be created
 
 
 responses = {
